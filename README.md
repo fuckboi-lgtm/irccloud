@@ -25,5 +25,5 @@ If the above command fails, install `python-pip`
 Use the bash script `irccloud_cronjob` provided for ease of use
   
 License
-=======
+========
 UNLICENSE
